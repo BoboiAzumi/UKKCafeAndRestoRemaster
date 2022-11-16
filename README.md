@@ -9,6 +9,12 @@ Q: Mengapa program ini dibuat ?. gabut banget lu.
 
 A: Karena saya ingin membuat pembaharuan dengan versi aslinya. Sesekali ingin bernostalgia dengan Suasana UKK.
 
+# Izin
+1. Source code ini bersifat Open Source sehingga bebas digunakan dengan tujuan untuk belajar.
+2. Harap Cantumkan Sumber Asli Jika Melakukan Modifikasi Terhadap Source Code
+3. [Kontribusi] Bebas Melakukan Push Ke Branch repository ini
+4. DILARANG KERAS Untuk Memperjualbelikan Source Code Ini.
+
 # Instalasi
 1. Clone Repositori ini ke folder htdocs XAMPP/LAMPP dengan sub Folder UKKCafe.
 2. Jalankan XAMPP/LAMPP
